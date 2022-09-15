@@ -1,12 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/anouarbensaad/VulnX"><img src="https://i.ibb.co/ZxxFqxQ/vxv2.png" alt="VulnX"></a>
+  <a href="https://github.com/Mr-Destroyer/vulnx"><img src="https://i.ibb.co/ZxxFqxQ/vxv2.png" alt="VulnX"></a>
   <br>
   VulnX
   <br>
 </h1>
 
 <h4 align="center">Vulnx 🕷️ is An Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms </h4>
+<h4 align="center">Developed By Mohammad Zim </h4>
 
 <p align="center">
    <a href="">
@@ -26,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anouarbensaad/vulnx/wiki">VulnX Wiki</a> •
+  <a href="https://github.com/Mr-Destroyer/vulnx/wiki">VulnX Wiki</a> •
   <a href="https://github.com/anouarbensaad/vulnx/wiki/Usage">How To Use</a> •
   <a href="https://github.com/anouarbensaad/vulnx/wiki/Compatibility-&-Dependencies">Compatibility</a> •
   <a href="https://github.com/anouarbensaad/vulnx/wiki/Vulnx-Library">Library</a> •
@@ -300,6 +301,5 @@ You can contribute in following ways:
 - Searching Exploits
 - Give suggestions **(Ideas)** to make it better
 
-Do you want to have a conversation in private? email me : Bensaad.tig@gmail.com
+Do you want to have a conversation in private? email me : mohammadzim81@gmail.com
 
-***VulnX*** is licensed under [GPL-3.0 License](https://github.com/anouarbensaad/VulnX/blob/master/LICENSE)
